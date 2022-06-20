@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "427456119325",
+    "project_id": "fapet-c1755",
+    "storage_bucket": "fapet-c1755.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427456119325:android:83f9c142c5455ce0aebcf4",
+        "android_client_info": {
+          "package_name": "com.aza.fapet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427456119325-1sd5rnlgg475nihu4ttc058vcm7u8qrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNHwiTzXSYVCMNwRDkWt7Y-X-PqefhUaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427456119325-1sd5rnlgg475nihu4ttc058vcm7u8qrj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
